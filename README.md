@@ -12,7 +12,7 @@ HTML Templates: The application includes HTML templates for various pages, inclu
 Installation
 Clone the repository:
 
-git clone https://github.com/Pr1s0ner627/Loan-App.git
+
 
 Install dependencies:
 
